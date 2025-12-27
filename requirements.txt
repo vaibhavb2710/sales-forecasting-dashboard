@@ -1,0 +1,5 @@
+# 📈 AI-Powered Sales Forecasting Dashboard
+
+An end-to-end data analytics and machine learning project that forecasts future retail sales using historical data and presents insights through an interactive Power BI dashboard.
+
+---
