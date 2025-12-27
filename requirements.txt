@@ -10,3 +10,12 @@ An end-to-end data analytics and machine learning project that forecasts future 
 - Support business decisions with data-driven insights
 
 ---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, Matplotlib)
+- Facebook Prophet
+- Jupyter Notebook
+- Power BI Desktop
+- Git & GitHub
+
+---
