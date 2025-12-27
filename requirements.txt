@@ -42,3 +42,19 @@ An end-to-end data analytics and machine learning project that forecasts future 
 - Business insight highlights
 
 ---
+
+## ▶️ How to Run
+1. Clone the repository  
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Run notebooks in order  
+4. Open Power BI dashboard file (`.pbix`)
+
+---
+
+## 🙌 Author
+**Vaibhav Bedre**
+
+---
+
+## ⭐ Outcome
+A client-ready sales forecasting solution combining machine learning, visualization, and business insights.
