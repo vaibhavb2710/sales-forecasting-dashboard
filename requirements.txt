@@ -33,3 +33,12 @@ An end-to-end data analytics and machine learning project that forecasts future 
 - Created an interactive Power BI dashboard
 
 ---
+
+## 📈 Power BI Dashboard Features
+- Actual vs Forecasted Sales Trend
+- Monthly Sales Comparison
+- KPI Cards (Total Sales, Avg Sales, Forecast)
+- Date and category filters
+- Business insight highlights
+
+---
