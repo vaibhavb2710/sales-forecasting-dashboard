@@ -1,0 +1,60 @@
+# 📈 AI-Powered Sales Forecasting Dashboard
+
+An end-to-end data analytics and machine learning project that forecasts future retail sales using historical data and presents insights through an interactive Power BI dashboard.
+
+---
+
+## 🎯 Objective
+- Analyze historical retail sales
+- Forecast future sales using time series modeling
+- Support business decisions with data-driven insights
+
+---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, Matplotlib)
+- Facebook Prophet
+- Jupyter Notebook
+- Power BI Desktop
+- Git & GitHub
+
+---
+
+## 📊 Dataset
+- Superstore Sales Dataset
+- Monthly aggregated sales data used for forecasting
+
+---
+
+## 🔍 Approach
+- Cleaned and aggregated sales data at monthly level
+- Built a time-series forecasting model using Prophet
+- Generated 6-month sales forecast with confidence intervals
+- Created an interactive Power BI dashboard
+
+---
+
+## 📈 Power BI Dashboard Features
+- Actual vs Forecasted Sales Trend
+- Monthly Sales Comparison
+- KPI Cards (Total Sales, Avg Sales, Forecast)
+- Date and category filters
+- Business insight highlights
+
+---
+
+## ▶️ How to Run
+1. Clone the repository  
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Run notebooks in order  
+4. Open Power BI dashboard file (`.pbix`)
+
+---
+
+## 🙌 Author
+**Vaibhav Bedre**
+
+---
+
+## ⭐ Outcome
+A client-ready sales forecasting solution combining machine learning, visualization, and business insights.
