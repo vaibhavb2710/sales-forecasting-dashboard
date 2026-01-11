@@ -24,6 +24,10 @@ An end-to-end data analytics and machine learning project that forecasts future 
 
 ---
 
+![alt text](<Screenshot 2025-12-27 104616.png>)
+
+---
+
 ## 📊 Dataset
 - Superstore Sales Dataset
 - Monthly aggregated sales data used for forecasting
