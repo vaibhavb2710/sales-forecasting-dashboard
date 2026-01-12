@@ -18,6 +18,7 @@ An end-to-end data analytics and machine learning project that forecasts future 
 - Power BI Desktop
 - Git & GitHub
 
+
 ---
 
 ![alt text](<Screenshot 2025-12-27 104616.png>)
